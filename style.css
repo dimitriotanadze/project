@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.satauri {
+    margin-top: 25px;
+    margin-left: 35px;
+}
+.image {
+    margin: 35px 25px;
+}
+.text {
+    margin: 35px 25px;
+}
